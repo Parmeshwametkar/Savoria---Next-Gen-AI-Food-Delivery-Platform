@@ -1,0 +1,6 @@
+{
+  "name": "Savoria - Next-Gen AI Food Delivery Platform",
+  "description": "Billion-dollar startup grade food delivery platform with real-time tracking, AI culinary recommendations, multi-role dashboards, and seamless checkout.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
